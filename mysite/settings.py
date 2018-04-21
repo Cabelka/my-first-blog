@@ -25,7 +25,7 @@ SECRET_KEY = 'r4zd(e67h%rve9&uhqfzzp=+_!1q6rd@bcye=v)!tr^hp*+ndw'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<your_username>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'cabelka.pythonanywhere.com']
 
 
 # Application definition
